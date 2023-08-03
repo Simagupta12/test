@@ -1,1 +1,4 @@
 Aim To perform various operations on local and remote repositories using git cheat -sheet
+theory :
+diagram:
+conclusion: hence we 
